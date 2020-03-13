@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://echiepien.simpledocs.co/sitemap.xml
